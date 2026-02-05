@@ -1,0 +1,8 @@
+[user]
+	email = Tfactor2020@gmail.com
+	name = Tfactor08
+[alias]
+	st = status
+    cm = commit -m
+[core]
+	editor = vim
