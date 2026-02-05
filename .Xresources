@@ -1,0 +1,9 @@
+URxvt*font: xft:DejaVu Sans Mono:size=18
+
+URxvt*scrollBar: false
+
+URxvt.keysym.C-up: font-size:increase
+URxvt.keysym.C-down: font-size:decrease
+URxvt.keysym.C-equal: font-size:reset
+
+URxvt.perl-ext-common: font-size

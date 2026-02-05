@@ -1,0 +1,5 @@
+wal --theme base16-seti
+xrdb -merge ~/.cache/wal/colors.Xresources
+xrdb -merge ~/.Xresources
+urxvt &
+dunst &
