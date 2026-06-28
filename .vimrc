@@ -50,7 +50,7 @@ call plug#end()
 
 colorscheme gruvbox
 
-" Align the 'c' character by the right-most column of the visual selection
+" align the 'c' character by the right-most column of the visual selection
 function! Align(c)
     if strlen(a:c) != 1
         echo "ERROR: argument must be a single character"
