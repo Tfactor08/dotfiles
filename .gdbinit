@@ -1,2 +1,2 @@
-set tui enable
+tui enable
 set disassembly-flavor intel
